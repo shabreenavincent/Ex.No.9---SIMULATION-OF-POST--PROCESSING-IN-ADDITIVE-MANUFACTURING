@@ -47,8 +47,16 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![OUTPUT1](https://github.com/shabreenavincent/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475721/22611111-77c8-4bc7-9168-57deb1f933fc)
+
+
+![OUTPUT2](https://github.com/shabreenavincent/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475721/578d0800-f3a9-4981-8eab-8a7ab776c278)
+
+![OUTPUT3](https://github.com/shabreenavincent/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475721/6c9d3ef4-92be-40a5-81c0-49194e8b466d)
+
+
+### Name:SHABREENA VINCENT
+### Register Number:21222230141
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
